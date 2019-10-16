@@ -1,7 +1,7 @@
 # Учебный проект «Код и Магия» [![Build status][travis-image]][travis-url]
 
-* Студент: [Pavel Kuznetsov](https://up.htmlacademy.ru/javascript/18/user/641789).
-* Наставник: `Неизвестно`.
+* Студент: [Максим Дружинин]
+
 
 ---
 
